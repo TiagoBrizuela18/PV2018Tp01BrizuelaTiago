@@ -12,6 +12,7 @@ import java.util.Scanner;
  * @author Tiago
  */
 public class Sumatoria {
+    int k;
     int a;
     public void ingreso(){
         Scanner ingreso=new Scanner (System.in);
